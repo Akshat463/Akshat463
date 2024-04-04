@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I am Akshat Tiwari👋
 
-<!--
-**Akshat463/Akshat463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+<img align="right" width="200" height="200" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 
-Here are some ideas to get you started:
+- 🙂 Persuing Software Engineering at Medicaps
+- 🌱 Developed spring-boot java projects 
+- 🤖 Been diving into the world of Artificial intelligence and Machine Learning 
+- 🤔 Java || Python || SQL || Artificial intelligence Machine Learning 
+- ☕ I like exploring new technologies and creating things with them
+- 😃 Learning full stack java development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary>My top Technologies</summary>
+
+| Rank | Languages   |
+|-----:|-------------|
+|     1| Java        |
+|     2| Spring-boot |
+|     3| AI/ML       |
+|     4| React       | 
+|     5| Python      |
+|     6| SQL         |
+
+</details>
