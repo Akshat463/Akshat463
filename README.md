@@ -6,7 +6,7 @@
 - 🙂 Persuing Software Engineering at Medicaps
 - 🌱 creating java spring-boot projects 
 - 🤖 Been diving into the world of Artificial intelligence and Machine Learning 
-- 🤔 Java || Python || SQL || Artificial intelligence Machine Learning 
+- 🤔 Java || Python || SQL || Docker and k8 || Artificial intelligence Machine Learning 
 - ☕ I like exploring new technologies and creating things with them
 - 😃 Learning full stack java development
 
