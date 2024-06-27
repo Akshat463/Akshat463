@@ -17,9 +17,11 @@
 |-----:|-------------|
 |     1| Java        |
 |     2| Spring-boot |
-|     3| AI/ML       |
-|     4| React       | 
+|     3| AI          |
+|     4| Docker      | 
 |     5| Python      |
 |     6| SQL         |
+|     7| React.js    |
+|     8| Kubernetes  |
 
 </details>
