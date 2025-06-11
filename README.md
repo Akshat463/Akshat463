@@ -6,9 +6,9 @@
 - 🙂 Persuing Software Engineering at Medi-Caps University
 - 🌱 Creating java spring-boot projects 
 - 🤖 Been diving into the world of Artificial intelligence and Machine Learning 
-- 🤔 Java || Sprin Boot || Python || SQL || Docker || Artificial intelligence || Machine Learning 
+- 🤔 Java || Sprin Boot || Python || SQL || Docker || AWS 
 - ☕ I like exploring new technologies and creating things with them
-- 😃 Learning full stack java development
+- 😃 Amazon web services and Devops
 
 <details>
 <summary>My top Technologies</summary>
