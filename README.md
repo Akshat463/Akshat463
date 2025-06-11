@@ -17,11 +17,11 @@
 |-----:|-------------|
 |     1| Java        |
 |     2| Spring-boot |
-|     3| AI          |
+|     3| SQL         |
 |     4| Docker      | 
-|     5| Python      |
+|     5| AWS         |
 |     6| SQL         |
-|     7| React.js    |
+|     7| Jenkins     |
 |     8| Kubernetes  |
 
 </details>
