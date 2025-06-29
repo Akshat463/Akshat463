@@ -22,6 +22,6 @@
 |     5| AWS         |
 |     6| SQL         |
 |     7| Jenkins     |
-|     8| Kubernetes  |
+|     8| LLM's       |
 
 </details>
